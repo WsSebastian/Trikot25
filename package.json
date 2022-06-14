@@ -1,0 +1,19 @@
+{
+  "name": "trikot25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WsSebastian/Trikot25.git"
+  },
+  "author": "Sebastian Schleiken Jonas Peltzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WsSebastian/Trikot25/issues"
+  },
+  "homepage": "https://github.com/WsSebastian/Trikot25#readme"
+}
